@@ -30,10 +30,12 @@ python main.py
 
 Each file inside the `examples` folder demonstrates a specific concept of exception handling.
 
-## 👨‍💻 Author
-
-Haven Hasan
-
 ## ⭐ Notes
 
 This project is created for learning and practicing Python exception handling.
+
+## 🔗 License
+
+This project is open-source and available under the MIT License.
+
+Made with ❤️ by Haven Hasan
